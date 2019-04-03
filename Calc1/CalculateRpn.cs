@@ -6,7 +6,7 @@ namespace Calc1
 {
     /// <summary>
     /// This will step through an RPN formatted string and return the result of the calculation.
-    /// 
+    /// gdfgdfgfd
     /// If an error is encounted the errorMessage value will be set.
     /// </summary>
     class CalculateRpn
